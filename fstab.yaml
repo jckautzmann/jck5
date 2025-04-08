@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://lovely-choice-rodent.ngrok-free.app/bin/franklin.delivery/adobe-rnd/jck5/main"
+    url: "https://lovely-choice-rodent.ngrok-free.app/bin/franklin.delivery/jckautzmann/jck5/main"
     type: "markup"
     suffix: ".html"
