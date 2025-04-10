@@ -6,6 +6,7 @@
   ],
   "includes": [
     "/content/jck5/",
+    "/content/dam/jck4/",
     "/content/dam/jck5/"
   ]
 }
